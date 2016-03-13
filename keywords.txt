@@ -11,6 +11,7 @@ CuriePing	KEYWORD1	CuriePing
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
+ping    	KEYWORD2	ping
 
 #######################################
 # Constants (LITERAL1)
